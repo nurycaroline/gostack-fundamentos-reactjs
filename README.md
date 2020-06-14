@@ -15,3 +15,8 @@
 [Instruções](./instructions.md)
 
 Splicação de gestão de transações, a GoFinances
+
+### Implementacoes além do template
+
+- FormatDate
+- Importação de multiplos arquivos
